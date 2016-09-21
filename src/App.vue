@@ -27,9 +27,6 @@
 </template>
 
 <script>
-// import Group from 'vux-components/group'
-// import Cell from 'vux-components/cell'
-// import XHeader from 'vux-components/x-header'
 import { Tabbar, TabbarItem, XHeader } from 'vux-components'
 export default {
   data () {
